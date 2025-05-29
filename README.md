@@ -44,4 +44,3 @@ By following the above steps:
 - Analyzed real-world applications to evaluate strengths and weaknesses in UI/UX.
 - Built and tested simple wireframes and prototypes using modern design tools.
 - Improved design thinking and tool proficiency for practical UI/UX development.
-```
