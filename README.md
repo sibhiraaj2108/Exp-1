@@ -37,10 +37,4 @@ To develop a clear understanding of User Interface (UI) and User Experience (UX)
 [UI_UX_Design_exp 1 SIBHIRAAJ.pdf](https://github.com/user-attachments/files/20504425/UI_UX_Design_exp.1.SIBHIRAAJ.pdf)
 
 ## RESULT
-
-By following the above steps:
-- Gained in-depth knowledge of UI and UX principles.
-- Differentiated clearly between visual interface design and user journey experience.
-- Analyzed real-world applications to evaluate strengths and weaknesses in UI/UX.
-- Built and tested simple wireframes and prototypes using modern design tools.
-- Improved design thinking and tool proficiency for practical UI/UX development.
+Through these hands-on experiments, I developed a solid understanding of both UI and UX design principles. By analyzing real-world applications, I learned how good visual design (UI) must be paired with smooth user flows (UX) to create effective digital experiences. Using tools like Figma and Adobe XD, I created wireframes and prototypes, which helped me visualize how design decisions impact usability. These activities improved my design thinking, tool proficiency, and ability to evaluate and build better user-centered interfaces.
